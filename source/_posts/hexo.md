@@ -1,1 +1,1 @@
-title: hexodate: 2015-10-31 02:02:16tags:---hexo 
+title: hexodate: 2015-10-31 02:02:16tags:---#hexo命令笔记```rubygit clone http://github.com/cjqhyy/cjqhyy_hexo.gitcd cjqhyy_hexo npm installhexo new "example"hexo dgit add .git commit -m "new article"git push origin master```
