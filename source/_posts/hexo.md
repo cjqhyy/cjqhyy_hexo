@@ -1,1 +1,1 @@
-title: hexodate: 2015-10-31 02:02:16tags:---#hexo命令笔记```rubygit clone http://github.com/cjqhyy/cjqhyy_hexo.gitcd cjqhyy_hexo npm installhexo new "example"hexo dgit add .git commit -m "new article"git push origin master```
+title: hexodate: 2015-10-31 02:02:16tags:---1. hexo命令笔记```rubygit clone http://github.com/cjqhyy/cjqhyy_hexo.gitcd cjqhyy_hexo npm installhexo new "example"hexo dgit add .git commit -m "new article"git push origin master```2. 代码示例```cvoid main(){	printf("Hello world!");	while(1){}}```
